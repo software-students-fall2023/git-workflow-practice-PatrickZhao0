@@ -7,3 +7,4 @@ I think that this article serves as an excellent resource for anyone curious abo
 
 ### Brad Yin - Comment ###
 I learned the difference between a system developer and an application developer. Also, an online degree at Coursera can get anyone into meta
+#### Patrick's Reply: Thank you for your commment ####
