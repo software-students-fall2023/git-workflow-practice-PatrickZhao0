@@ -1,2 +1,2 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+## The [Article](https://github.com) I find Interesting: What Does a Software Engineer Do?
+The article provides an in-depth look into the role of software engineers. These are the professionals who design, create, and maintain the software and apps we frequently use on our computers and smartphones. The field of software engineering is broad, with two primary categories: systems developers and application developers. Systems developers work on the underlying systems that support apps, while application developers focus on creating the apps themselves, whether for mobile devices or computers. The article emphasizes that a career in software engineering is not only fulfilling due to the problem-solving nature of the work but also offers competitive salaries and job flexibility.
